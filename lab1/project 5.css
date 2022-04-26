@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+html{
+    background-color: rgb(38, 38, 40);
+}
+article{
+    background-color: white;
+    width: 95%;
+    margin-left: 20px;
+    height: 110vh;
+}
+section{
+    margin-left: 10px;
+}
+h3{
+    border-bottom: solid 0.7pt black;
+}
+h1, h5{
+    background-color: #daf5ff;
+    margin-left: 20px;
+    margin-right: 50px;
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 50px;
+    height: 30px;
+    font-size: 20px;
+}
+nav ul a{
+    color: white;
+    margin-left: 10px;
+}
+.ab{
+    color:grey;
+
+}
+.a{
+    background:rgb(0, 0, 0);
+  
+}
+.abc{
+    color:rgb(54, 0, 163);
+}
+.a1{
+    color:white;
+    margin-left: 10px;
+}
